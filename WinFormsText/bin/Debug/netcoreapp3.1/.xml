@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<_templates xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Type="Model">
+  <fileName />
+  <CombineXMesh>
+    <Material Name="windmill_mat" AlbedoMap="concrete_02__d.tga" ShadingMap="concrete_02__n_d.tga" NormalMap="concrete_02__sh_d.tga" />
+  </CombineXMesh>
+</_templates>

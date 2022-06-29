@@ -1,0 +1,31 @@
+C:\projects\consolapps\WinFormsTextReader\WinFormsText\bin\Debug\netcoreapp3.1\WinFormsText.exe
+C:\projects\consolapps\WinFormsTextReader\WinFormsText\bin\Debug\netcoreapp3.1\WinFormsText.deps.json
+C:\projects\consolapps\WinFormsTextReader\WinFormsText\bin\Debug\netcoreapp3.1\WinFormsText.runtimeconfig.json
+C:\projects\consolapps\WinFormsTextReader\WinFormsText\bin\Debug\netcoreapp3.1\WinFormsText.runtimeconfig.dev.json
+C:\projects\consolapps\WinFormsTextReader\WinFormsText\bin\Debug\netcoreapp3.1\WinFormsText.dll
+C:\projects\consolapps\WinFormsTextReader\WinFormsText\bin\Debug\netcoreapp3.1\WinFormsText.pdb
+C:\projects\consolapps\WinFormsTextReader\WinFormsText\obj\Debug\netcoreapp3.1\WinFormsText.Form1.resources
+C:\projects\consolapps\WinFormsTextReader\WinFormsText\obj\Debug\netcoreapp3.1\WinFormsText.csproj.GenerateResource.cache
+C:\projects\consolapps\WinFormsTextReader\WinFormsText\obj\Debug\netcoreapp3.1\WinFormsText.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\consolapps\WinFormsTextReader\WinFormsText\obj\Debug\netcoreapp3.1\WinFormsText.AssemblyInfoInputs.cache
+C:\projects\consolapps\WinFormsTextReader\WinFormsText\obj\Debug\netcoreapp3.1\WinFormsText.AssemblyInfo.cs
+C:\projects\consolapps\WinFormsTextReader\WinFormsText\obj\Debug\netcoreapp3.1\WinFormsText.csproj.CoreCompileInputs.cache
+C:\projects\consolapps\WinFormsTextReader\WinFormsText\obj\Debug\netcoreapp3.1\WinFormsText.dll
+C:\projects\consolapps\WinFormsTextReader\WinFormsText\obj\Debug\netcoreapp3.1\WinFormsText.pdb
+C:\projects\consolapps\WinFormsTextReader\WinFormsText\obj\Debug\netcoreapp3.1\WinFormsText.genruntimeconfig.cache
+C:\projects\consolapps\WinFormsTextReader\WinFormsText\obj\Debug\netcoreapp3.1\WinFormsText.csproj.AssemblyReference.cache
+C:\projects\consolapps\WinFormsTextReader 2\WinFormsText\bin\Debug\netcoreapp3.1\WinFormsText.exe
+C:\projects\consolapps\WinFormsTextReader 2\WinFormsText\bin\Debug\netcoreapp3.1\WinFormsText.deps.json
+C:\projects\consolapps\WinFormsTextReader 2\WinFormsText\bin\Debug\netcoreapp3.1\WinFormsText.runtimeconfig.json
+C:\projects\consolapps\WinFormsTextReader 2\WinFormsText\bin\Debug\netcoreapp3.1\WinFormsText.runtimeconfig.dev.json
+C:\projects\consolapps\WinFormsTextReader 2\WinFormsText\bin\Debug\netcoreapp3.1\WinFormsText.dll
+C:\projects\consolapps\WinFormsTextReader 2\WinFormsText\bin\Debug\netcoreapp3.1\WinFormsText.pdb
+C:\projects\consolapps\WinFormsTextReader 2\WinFormsText\obj\Debug\netcoreapp3.1\WinFormsText.Form1.resources
+C:\projects\consolapps\WinFormsTextReader 2\WinFormsText\obj\Debug\netcoreapp3.1\WinFormsText.csproj.GenerateResource.cache
+C:\projects\consolapps\WinFormsTextReader 2\WinFormsText\obj\Debug\netcoreapp3.1\WinFormsText.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\consolapps\WinFormsTextReader 2\WinFormsText\obj\Debug\netcoreapp3.1\WinFormsText.AssemblyInfoInputs.cache
+C:\projects\consolapps\WinFormsTextReader 2\WinFormsText\obj\Debug\netcoreapp3.1\WinFormsText.AssemblyInfo.cs
+C:\projects\consolapps\WinFormsTextReader 2\WinFormsText\obj\Debug\netcoreapp3.1\WinFormsText.csproj.CoreCompileInputs.cache
+C:\projects\consolapps\WinFormsTextReader 2\WinFormsText\obj\Debug\netcoreapp3.1\WinFormsText.dll
+C:\projects\consolapps\WinFormsTextReader 2\WinFormsText\obj\Debug\netcoreapp3.1\WinFormsText.pdb
+C:\projects\consolapps\WinFormsTextReader 2\WinFormsText\obj\Debug\netcoreapp3.1\WinFormsText.genruntimeconfig.cache
